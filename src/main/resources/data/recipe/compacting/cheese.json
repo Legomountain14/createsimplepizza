@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 500,
+      "fluid": "minecraft:milk"
+    }
+  ],
+  "results": [
+    {
+      "id": "createsimplepizza:cheese"
+    }
+  ]
+}

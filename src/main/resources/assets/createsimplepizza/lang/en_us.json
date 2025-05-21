@@ -1,5 +1,7 @@
 {
-  "itemGroup.createsimplepizza": "Example Mod Tab",
-  "block.createsimplepizza.example_block": "Example Block",
-  "item.createsimplepizza.example_item": "Example Item"
+  "itemGroup.createsimplepizza": "Create: Simple Pizza",
+  "item.createsimplepizza.pizza_dough": "Pizza Dough",
+  "item.createsimplepizza.cheese_pizza": "Cheese Pizza",
+  "item.createsimplepizza.cheese_pizza_slice": "Cheese Pizza Slice",
+  "item.createsimplepizza.cheese": "Cheese"
 }
