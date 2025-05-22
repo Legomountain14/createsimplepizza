@@ -3,5 +3,8 @@
   "item.createsimplepizza.pizza_dough": "Pizza Dough",
   "item.createsimplepizza.cheese_pizza": "Cheese Pizza",
   "item.createsimplepizza.cheese_pizza_slice": "Cheese Pizza Slice",
-  "item.createsimplepizza.cheese": "Cheese"
+  "item.createsimplepizza.pizza_sauce_bucket": "Pizza Sauce Bucket",
+  "item.createsimplepizza.cheese": "Cheese",
+  "block.createsimplepizza.pizza_sauce": "Pizza Sauce",
+  "fluid_type.createsimplepizza.pizza_sauce_fluid_type": "Pizza Sauce"
 }

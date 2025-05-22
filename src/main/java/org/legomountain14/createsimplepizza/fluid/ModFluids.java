@@ -24,7 +24,7 @@ public class ModFluids {
         ModFluidTypes.PIZZA_SAUCE_FLUID_TYPE, SOURCE_PIZZA_SAUCE_FLUID, FLOWING_PIZZA_SAUCE_FLUID)
             .slopeFindDistance(3)
             .levelDecreasePerBlock(2)
-            .block(ModBlocks.PIZZA_SAUCE_BLOCK)
+            .block(ModBlocks.PIZZA_SAUCE)
             .bucket(ModItems.PIZZA_SAUCE_BUCKET)
             .tickRate(25);
 

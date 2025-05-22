@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "level=0": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=1": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=2": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=3": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=4": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=5": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=6": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=7": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=8": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=9": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=10": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=11": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=12": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=13": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=14": { "model": "createsimplepizza:block/pizza_sauce" },
+    "level=15": { "model": "createsimplepizza:block/pizza_sauce" }
+  }
+}

@@ -19,7 +19,7 @@ public class ModBlocks {
             DeferredRegister.createBlocks(CreateSimplePizza.MOD_ID);
 
     // Pizza Sauce Fluid Block
-    public static final DeferredBlock<LiquidBlock> PIZZA_SAUCE_BLOCK = BLOCKS.register("pizza_sauce_block",
+    public static final DeferredBlock<LiquidBlock> PIZZA_SAUCE = BLOCKS.register("pizza_sauce",
             () -> new LiquidBlock(ModFluids.SOURCE_PIZZA_SAUCE_FLUID.get(), BlockBehaviour.Properties.ofFullCopy(Blocks.WATER).noCollission()));
 
 

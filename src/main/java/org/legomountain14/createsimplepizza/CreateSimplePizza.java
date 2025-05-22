@@ -47,8 +47,8 @@ public class CreateSimplePizza
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
         ModFluids.register(modEventBus);
+        ModFluidTypes.register(modEventBus);
 
-        ModFluidTypes.FLUID_TYPES.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
